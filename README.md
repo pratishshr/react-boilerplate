@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 First clone this repository.
 
 ```bash
-$ git@github.com:pratishshr/react-boilerplate.git
+$ git clone git@github.com:pratishshr/react-boilerplate.git
 ```
 
 Install dependencies. Make sure you already have `nodejs`, `npm` and `yarn` installed in your system.
